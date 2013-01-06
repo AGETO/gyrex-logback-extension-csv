@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Logback CSV Layout
+Bundle-SymbolicName: net.ageto.gyrex.logback.extensions.csv
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: AGETO Labs
+Fragment-Host: ch.qos.logback.classic;bundle-version="[1.0.7,2.0.0)"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
